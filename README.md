@@ -21,8 +21,8 @@ A minimal, production-ready starter template for building internal tools and web
 
 1. **Clone the repo**
 ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/Barty-Bart/nextjs-supabase-shadcn-boilerplate.git
+   cd nextjs-supabase-shadcn-boilerplate
 ```
 
 2. **Install dependencies**
